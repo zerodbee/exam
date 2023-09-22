@@ -3,12 +3,13 @@ body {
 }
 
 .header {
-
+    width: 100%;
     background-color: white;
 }
 
 
 .hdr {
+    align-items: center;
     justify-content: space-between;
 }
 
