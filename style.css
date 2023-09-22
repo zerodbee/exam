@@ -26,3 +26,7 @@ body {
 .phn {
     text-decoration: none;
 }
+
+.banner {
+    background-image: url(img/rectangle2.png);
+}
