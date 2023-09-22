@@ -3,5 +3,11 @@ body {
 }
 
 .header {
-    
+    justify-content: space-between;
+    background-color: white;
+}
+
+#00FF38;
+.hdr {
+    justify-content: space-between;
 }
